@@ -1,0 +1,1 @@
+print(input("What is your content? ").strip().lower())
